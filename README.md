@@ -32,15 +32,37 @@ Este projeto tem como objetivo criar uma página falsa do facebook para descobri
 ### Configurando o Phishing no Kali Linux 👾
 
 - Acesso root: ``` sudo su ```
-- Iniciando o setoolkit: ``` setoolkit ```
-- Tipo de ataque: ``` Social-Engineering Attacks ```
-- Vetor de ataque: ``` Web Site Attack Vectors ```
-- Método de ataque: ```Credential Harvester Attack Method ```
-- Método de ataque: ``` Site Cloner ```
-- Obtendo o endereço da máquina: ``` ifconfig ```
-- URL para clone: http://www.facebook.com
 
+![sudo su](https://github.com/user-attachments/assets/e345f0d0-26f9-45a0-8def-e5513f39bb34)
+
+- Iniciando o setoolkit: ``` setoolkit ```
+
+![setoolkit](https://github.com/user-attachments/assets/b93d9443-de34-497d-b930-82ec4ad69a8e)
+
+- Tipo de ataque: ``` Social-Engineering Attacks ```
+
+![social engineering](https://github.com/user-attachments/assets/ec748241-6b38-44ab-9c56-942fe29c5bdc)
+
+- Vetor de ataque: ``` Web Site Attack Vectors ```
+
+![attack type](https://github.com/user-attachments/assets/e15fa4de-a1b7-4e34-b6f2-0cc6c499332f)
+
+- Método de ataque: ```Credential Harvester Attack Method ```
+
+![attack method 1](https://github.com/user-attachments/assets/5516764b-1e5c-4508-8891-c1f2bc02b7dd)
+
+- Método de ataque: ``` Site Cloner ```
+
+![attack method 2](https://github.com/user-attachments/assets/c7c64db4-fb29-4137-9902-0b605628d47f)
+
+- Obtendo o endereço da máquina: ``` ifconfig ```
+
+![Cloning](https://github.com/user-attachments/assets/6f01f829-5fcd-4d03-9078-6067aeaa5c0f)
+
+- URL para clone: http://www.instagram.com
 
 ### Resutados
 
-![Alt text](./passwd.png "Optional title")
+![Results](https://github.com/user-attachments/assets/9f13fd20-598e-44b8-b0b0-b44ee06904fc)
+
+
