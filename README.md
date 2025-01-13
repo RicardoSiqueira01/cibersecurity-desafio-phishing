@@ -61,7 +61,7 @@ Este projeto tem como objetivo criar uma página falsa do facebook para descobri
 
 - URL para clone: http://www.instagram.com
 
-### Resutados
+### Resultados
 ![false instagram](https://github.com/user-attachments/assets/cb03986a-a48b-4016-b57c-5a3169b14805)
 
 ![Results](https://github.com/user-attachments/assets/9f13fd20-598e-44b8-b0b0-b44ee06904fc)
